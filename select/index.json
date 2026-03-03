@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Roxanne",
+  "base_artist": "The Police",
+  "createdAt": "2026-03-03T06:21:01.091289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/01_Roxanne_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "EL Tango De Roxanne",
+      "artist": "Ewan McGregor, Jose Feliciano, and Jacek Koman",
+      "has_synced": true,
+      "path": "select/02_EL_Tango_De_Roxanne_Ewan_McGregor,_Jose_Feliciano,_and_Jacek_Koman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El tango de Roxanne",
+      "artist": "Ewan McGregor, José Feliciano and Jacek Koman",
+      "has_synced": true,
+      "path": "select/03_El_tango_de_Roxanne_Ewan_McGregor,_José_Feliciano_and_Jacek_Koman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "El Tango De Roxanne",
+      "artist": "Aaron Tveit feat. Danny Burstein, Original Broadway Cast of Moulin Rouge! The Musical, Ricky Rojas, Sahr Ngaujah, Jacqueline B. Arnold, Holly James & Jeigh Madjus",
+      "has_synced": true,
+      "path": "select/04_El_Tango_De_Roxanne_Aaron_Tveit_feat._Danny_Burstein,_Original_Broadway_Cast_of_Moulin_Rouge!_The_Mu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El tango de Roxanne",
+      "artist": "Aaron Tveit",
+      "has_synced": true,
+      "path": "select/05_El_tango_de_Roxanne_Aaron_Tveit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Dani Armstrong",
+      "has_synced": true,
+      "path": "select/06_Roxanne_Scott_Bradlee's_Postmodern_Jukebox_feat._Dani_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/07_Roxanne_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/08_Roxanne_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/09_Roxanne_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/10_Roxanne_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/11_Roxanne_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/12_Roxanne_Sting.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "Sting",
+      "has_synced": false,
+      "path": "select/13_Roxanne_Sting.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Roxanne (Live)",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/14_Roxanne_(Live)_Sting.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Roxanne",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/15_Roxanne_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Roxanne - Live In Atlanta / 2003 Stereo Remastered Version",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/16_Roxanne_-_Live_In_Atlanta___2003_Stereo_Remastered_Version_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Roxanne (Live In Atlanta \u0000 2003 Stereo Remastered Version)",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/17_Roxanne_(Live_In_Atlanta_\u0000_2003_Stereo_Remastered_Version)_The_Police.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Roxanne",
+      "artist": "The Police",
+      "has_synced": false,
+      "path": "select/pl_01_Roxanne_The_Police.txt"
+    }
+  ]
+}
